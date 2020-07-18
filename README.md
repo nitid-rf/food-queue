@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Path Ref. Youtube 
+พัฒนาเว็บแอพพลิเคชันด้วย React | Workshop (4 ชั่วโมงเต็ม เรียนฟรี!!!) - Kong Ruksiam
+(https://www.youtube.com/watch?v=6HVVeFcSAG8&t=8281s)
+
 ## Available Scripts
 
 In the project directory, you can run:
